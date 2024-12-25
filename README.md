@@ -1,10 +1,4 @@
 ## Hi everyone👋
-
-My name is Roberto and I am a Software Engineer with an insatiable curiosity for solving complex problems and a passion for building impactful software products.
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn)](https://www.linkedin.com/in/roberto-campedelli/)
-[![Leetcode](https://img.shields.io/badge/-Leetcode-FFA116?logo=LeetCode)](https://leetcode.com/roberto_c/) 
 <!--
 **robped/robped** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
